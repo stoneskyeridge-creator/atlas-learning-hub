@@ -1,0 +1,2 @@
+# Atlas Learning Hub
+Private family learning app built with React/Vite. The Gruffalo photographs used by the app are user-supplied photographs of a personally owned book and are intended for private household use.
